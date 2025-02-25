@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <!--LLenar el Title y los Metadatos-->
+    <title>Unidad 1 | Actividad 01</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <meta charset="utf-8">
+    <meta name="Autor" content="Cristian Alberto Mendoza Hernández">
+    <meta name="Fecha" content="12 de febrero del 2025">
+    <meta name="Descripción" content="Estructura HTML5; Hola mundo">
+  </head>
+  <body>
+    <!--Llenar el titulo y pegar el contenido-->
+    <h1>
+    Unidad 1 | Actividad 05 :: Tema (Listas)
+    </h1>
+    <h3>Siglas</h3>
+    <dl>
+        <dt>LAN</dt><dd>Local Area Network</dd>
+        <dt>HTTP</dt><dd>Hypertext Transfer Protocol</dd>
+        <dt>DHCP</dt><dd>Dynamic Host Configuration Protocol</dd>
+        <dt>SMTP</dt><dd></dd>
+        <dt>FTP</dt><dd></dd>
+        <dt>POP</dt><dd></dd>
+        <dt>IP</dt><dd></dd>
+        <dt>TCP</dt><dd></dd>
+        <dt>UDP</dt><dd></dd>
+        <dt>SSH</dt><dd></dd>
+        <dt>FTP</dt><dd></dd>
+        <dt>DNS</dt><dd></dd>
+        <dt>ARP</dt><dd></dd>
+        <dt>MAC</dt><dd></dd>
+        <dt>OSI</dt><dd></dd>
+    </dl>
+  </body>
+</html>
